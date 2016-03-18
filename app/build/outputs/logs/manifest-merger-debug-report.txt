@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:3:4-47
+		INJECTED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:4:28-53
+	android:versionCode
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:4:4-27
+		INJECTED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:5:4-26:18
+	android:label
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:5:47-79
+	android:debuggable
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:5:80-105
+	android:icon
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:5:17-46
+activity#com.delaroystudios.corporatetimer.ConfigureStandupTimer
+ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:7:7-12:18
+	android:label
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:7:88-120
+	android:name
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:7:17-87
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:8:10-11:26
+action#android.intent.action.MAIN
+ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:9:13-65
+	android:name
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:9:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:10:13-73
+	android:name
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:10:23-70
+activity#com.delaroystudios.corporatetimer.About
+ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:14:7-15:56
+	android:label
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:14:72-107
+	android:theme
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:15:10-53
+	android:name
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:14:17-71
+activity#com.delaroystudios.corporatetimer.Help
+ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:17:7-18:56
+	android:label
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:17:71-105
+	android:theme
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:18:10-53
+	android:name
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:17:17-70
+activity#com.delaroystudios.corporatetimer.StandupTimer
+ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:20:7-114
+	android:label
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:20:79-111
+	android:name
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:20:17-78
+activity#com.delaroystudios.corporatetimer.TeamDetails
+ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:21:7-128
+	android:theme
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:21:78-125
+	android:name
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:21:17-77
+activity#com.delaroystudios.corporatetimer.MeetingDetails
+ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:22:7-123
+	android:label
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:22:81-120
+	android:name
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:22:17-80
+activity#com.delaroystudios.corporatetimer.Prefs
+ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:23:7-113
+	android:label
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:23:72-110
+	android:name
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:23:17-71
+activity#com.delaroystudios.corporatetimer.TeamList
+ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:24:7-112
+	android:label
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:24:75-109
+	android:name
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:24:17-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:27:4-67
+	android:name
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:27:21-64
+uses-sdk
+ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:28:4-71
+	android:targetSdkVersion
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:28:40-68
+		INJECTED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:28:14-39
+		INJECTED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:29:4-53
+	android:smallScreens
+		ADDED from C:\Users\Shade\Desktop\android\CardView\standup-timer\app\src\main\AndroidManifest.xml:29:22-50

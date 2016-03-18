@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <item android:id="@+id/add_team" android:title="@string/add"
+      android:icon="@android:drawable/ic_menu_add" android:alphabeticShortcut="a" />
+</menu>
+<!-- From: file:/C:/Users/Shade/Desktop/android/CardView/standup-timer/app/src/main/res/menu/teams_options_menu.xml -->

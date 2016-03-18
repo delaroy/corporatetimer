@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <item android:id="@+id/delete_team_from_details" android:title="@string/delete_team"
+      android:icon="@android:drawable/ic_menu_delete" android:alphabeticShortcut="d" />
+</menu>
+<!-- From: file:/C:/Users/Shade/Desktop/android/CardView/standup-timer/app/src/main/res/menu/team_details_options_menu.xml -->

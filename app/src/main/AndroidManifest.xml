@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+   package="com.delaroystudios.corporatetimer"
+   android:versionCode="5" android:versionName="1.4">
+   <application android:icon="@drawable/icon" android:label="@string/app_name" android:debuggable="true">
+
+      <activity android:name="com.delaroystudios.corporatetimer.ConfigureStandupTimer" android:label="@string/app_name">
+         <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+         </intent-filter>
+      </activity>
+
+      <activity android:name="com.delaroystudios.corporatetimer.About" android:label="@string/about_title"
+         android:theme="@android:style/Theme.Dialog" />
+
+      <activity android:name="com.delaroystudios.corporatetimer.Help" android:label="@string/help_title"
+         android:theme="@android:style/Theme.Dialog" />
+
+      <activity android:name="com.delaroystudios.corporatetimer.StandupTimer" android:label="@string/app_name" />
+      <activity android:name="com.delaroystudios.corporatetimer.TeamDetails" android:theme="@android:style/Theme.NoTitleBar" />
+      <activity android:name="com.delaroystudios.corporatetimer.MeetingDetails" android:label="@string/meeting_details" />
+      <activity android:name="com.delaroystudios.corporatetimer.Prefs" android:label="@string/settings_title" />
+      <activity android:name="com.delaroystudios.corporatetimer.TeamList" android:label="@string/team_label" />
+
+   </application>
+   <uses-permission android:name="android.permission.WAKE_LOCK" />
+   <uses-sdk android:minSdkVersion="2" android:targetSdkVersion="8" />
+   <supports-screens android:smallScreens="false" />
+</manifest> 
